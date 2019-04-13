@@ -1,10 +1,10 @@
-# bootandscores
+# bootandscore
 Starter WordPress theme with Bootstrap 4, UnderScores and Menu NavWalker.
 
-## Bootstrap
+## BootStrap
 https://getbootstrap.com/
 
-## Underscore
+## UnderScores
 https://underscores.me/
 
 ## Menu NavWalker
